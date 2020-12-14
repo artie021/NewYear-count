@@ -1,0 +1,19 @@
+{
+  "name": "contador_anonovo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artie021/NewYear-count.git"
+  },
+  "author": "Artie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artie021/NewYear-count/issues"
+  },
+  "homepage": "https://github.com/artie021/NewYear-count#readme"
+}
