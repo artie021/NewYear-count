@@ -11,6 +11,14 @@ body{
     color: white; 
 }
 
+#gifF{
+    position: fixed;
+    max-width: 100%;
+    align-self: center;
+    z-index: 3;
+    display: none;
+}
+
 
 img{
     
